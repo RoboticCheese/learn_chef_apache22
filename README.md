@@ -1,2 +1,3 @@
 # learn_chef_apache22
-Testing Chef Automate
+
+This basic cookbook configures Apache on Ubuntu.
