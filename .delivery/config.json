@@ -8,10 +8,5 @@
   "job_dispatch": {
     "version": "v2"
   },
-  "dependencies": [],
-  "delivery-truck": {
-    "publish": {
-      "chef_server": true
-    }
-  }
+  "dependencies": []
 }

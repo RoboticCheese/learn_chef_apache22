@@ -1,6 +1,5 @@
 #
-# Cookbook Name:: build_cookbook
+# Cookbook:: build_cookbook
 # Recipe:: publish
 #
-# Copyright (c) 2016 The Authors, All Rights Reserved.
-include_recipe 'delivery-truck::publish'
+# Copyright:: 2017, The Authors, All Rights Reserved.
